@@ -25,3 +25,7 @@ The user will be able to:
   * View the total duration of each workout from the past seven workouts on the `stats` page.
 
 ![](images/fitness-tracker.png)
+
+# Deployment Link
+
+https://fathomless-journey-30707.herokuapp.com/
