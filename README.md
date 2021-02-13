@@ -1,4 +1,4 @@
-# Unit 17 NoSQL Homework: Workout Tracker
+# NoSQL: Workout Tracker
 
 This website gives users the ability to track their workouts daily and to add new one as they go.
 
