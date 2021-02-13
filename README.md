@@ -23,7 +23,5 @@ The user will be able to:
   * View the combined weight of multiple exercises from the past seven workouts on the `stats` page.
 
   * View the total duration of each workout from the past seven workouts on the `stats` page.
-<<<<<<< HEAD
-=======
 
->>>>>>> 2700ff26001b0ae08ec06e14bf289d120ffbd2ff
+![](images/fitness-tracker.png)
